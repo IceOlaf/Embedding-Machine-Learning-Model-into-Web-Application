@@ -107,5 +107,4 @@ Oh, one more thing, please do not forget to put a description when you make your
 
 ## Author
 
-- [Phonex Chemutai](https://www.linkedin.com/in/phonex-chemutai/)
-[![My Article Link]()]()
+- William Stewart
